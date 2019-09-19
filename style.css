@@ -1,0 +1,29 @@
+h1 {
+  color: blue;
+  background-color: pink;
+}
+
+body {
+  background-color: yellow;
+}
+
+li {
+  background-color: white;
+}
+
+li:nth-child(1) {
+  background-color: magenta;
+}
+
+#make-me-orange {
+  background-color: orange;
+}
+
+
+.make-me-red {
+  background-color: red;
+}
+
+img {
+  width: 100%;
+}
